@@ -7,5 +7,5 @@ apps:
   - name: react-notes
     path: ""
     text-resources:
-      - path: "*.json"
-        format: flat-key-value
+      - path: "*.tsx"
+        format: react-hardcoded
